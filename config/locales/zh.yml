@@ -1,0 +1,26 @@
+# Simplified Chinese strings go here for Rails i18n
+zh:
+  stats_label_stats:       													统计
+  stats_label_issue_activity: 											问题活跃度
+  stats_label_new_issues_priorities:							  新问题优先级
+  stats_label_more_active_issues: 									更多活跃的问题
+  stats_label_filters: 													    过滤
+
+  stats_label_current_week: 											  本周
+  stats_label_current_month: 											  本月
+  stats_label_last_week: 												    上一周
+  stats_label_last_month: 												  上个月
+  stats_label_begining_of_time: 										所有时间
+  stats_label_filtering_between:										"过滤条件: "
+  stats_label_and:														      与
+  stats_label_open_issues_count:										"当前打开的问题: "
+  stats_all_projects:													      "所有项目" 
+  stats_label_custom:                               "自定义"
+  stats_label_change:                               "确定"
+  stats_label_begin:                                "起始时间"
+  stats_label_end:                                  "截止时间"
+
+  stats_label_open_issues:                          "打开的问题"
+  stats_label_closed_issues:                        "关闭的问题"
+  stats_label_legend:                               "图示"
+  stats_open_issues_chart_info:                     "打开的问题总数，无作过滤。"
